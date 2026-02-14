@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
-**ByteChat** é uma ferramenta de chat TCP **peer-to-peer** para redes locais (LAN), desenvolvida em Python.  
+***ByteChat*** é uma ferramenta de chat TCP **peer-to-peer** para redes locais (LAN), desenvolvida em Python.  
 Inspirado no conceito minimalista do Netcat, permite comunicação direta entre cliente e servidor sem necessidade de internet, com **autenticação opcional por senha**.
 
 > Comunicação simples. Direta. Sem intermediários.
