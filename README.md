@@ -1,5 +1,3 @@
-Perfeito! Aqui está o **README completo pronto para copiar e colar**, sem nada a alterar:
-
 ````markdown
 # ByteChat
 
