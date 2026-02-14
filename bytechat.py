@@ -85,7 +85,7 @@ def servidor():
             con.send(msg.encode())
 
             dados = con.recv(1024)
-            print(f"   ({client[0]}]: {dados.decode()}")
+            print(f"   ({client[0]}): {dados.decode()}")
 
 
 def client():
