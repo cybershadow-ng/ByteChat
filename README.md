@@ -1,6 +1,7 @@
-![Snapshot da aplicação](snapshot.png)
 ````markdown
 # ByteChat
+
+![Snapshot da aplicação](snapshot.png)
 
 ![Python](https://img.shields.io/badge/python-3.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -38,57 +39,13 @@ git clone https://github.com/seuusuario/ByteChat.git
 cd ByteChat
 ````
 
-### 2. Rodar o programa
-
-```bash
-python3 bytechat.py
 ```
 
-> O programa exibirá um menu para iniciar como **Servidor** ou **Cliente**.
+### ✅ Observações importantes
 
----
+1. Certifique-se de que **`snapshot.png` está no mesmo diretório do README**.  
+2. O nome é **case-sensitive**: deve ser exatamente `snapshot.png`.  
+3. No GitHub online, a imagem **vai aparecer imediatamente** após o título.  
 
-### 3. Funcionalidades
-
-#### Servidor
-
-* Configure **IP** e **porta** (padrões: `127.0.0.1` e `8080`)
-* Ative ou não a **senha de autenticação**
-* Aguarde conexões de clientes na rede local
-* Troque mensagens em tempo real
-
-#### Cliente
-
-* Informe o **IP** e a **porta** do servidor
-* Insira a **senha**, se habilitada
-* Envie e receba mensagens diretamente do servidor
-
----
-
-## 💡 Exemplo de Uso
-
+Se quiser, posso também te mandar **uma versão com a imagem centralizada e tamanho ajustado**, que deixa o README mais profissional visualmente. Quer que eu faça isso?
 ```
-╔════════════════════════════════╗
-║          Chat Local            ║
-║ Conectado: 192.168.0.10:8080   ║
-╚════════════════════════════════╝
-
-You: Olá, tudo bem?
-(192.168.0.10): Olá! Tudo certo!
-```
-
----
-
-## 📚 Aprendizado
-
-ByteChat é um projeto **educacional** perfeito para:
-
-* Entender **sockets TCP** em Python
-* Praticar **comunicação peer-to-peer** em LAN
-* Aprender sobre **autenticação básica**
-
----
-
-## ⚖️ Licença
-
-MIT License – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
