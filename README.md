@@ -1,9 +1,7 @@
 ````markdown
 # ByteChat
 
-<p align="center">
-  <img src="snapshot.png" alt="Snapshot da aplicação" width="600">
-</p>
+![Snapshot da aplicação](snapshot.png)
 
 ![Python](https://img.shields.io/badge/python-3.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
