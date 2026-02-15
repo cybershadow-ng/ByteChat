@@ -1,16 +1,8 @@
-# ByteChat
-![Snapshot da aplicação](snapshot.png)
+
 ````markdown
 # ByteChat
 
-<p align="center">
-  <img src="snapshot.png" alt="Snapshot da aplicação" width="600">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.x-blue" alt="Python"> 
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
-</p>
+![Snapshot da aplicação](https://raw.githubusercontent.com/cybershadow-ng/ByteChat/main/snapshot.png)
 
 **ByteChat** é uma ferramenta de chat TCP **peer-to-peer** para redes locais (LAN), desenvolvida em Python.  
 Inspirado no conceito minimalista do Netcat, permite comunicação direta entre cliente e servidor sem necessidade de internet, com **autenticação opcional por senha**.
