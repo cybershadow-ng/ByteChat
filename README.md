@@ -1,9 +1,10 @@
 
 ````markdown
 # ByteChat
-
+````
 ![Snapshot da aplicação](https://raw.githubusercontent.com/cybershadow-ng/ByteChat/main/snapshot.png)
 
+````markdown
 **ByteChat** é uma ferramenta de chat TCP **peer-to-peer** para redes locais (LAN), desenvolvida em Python.  
 Inspirado no conceito minimalista do Netcat, permite comunicação direta entre cliente e servidor sem necessidade de internet, com **autenticação opcional por senha**.
 
