@@ -1,7 +1,7 @@
 ````markdown
 # ByteChat
 
-<img src="snapshot.png" alt="Print do ByteChat" width="500">
+![Print do ByteChat](snapshot.png)
 
 ![Python](https://img.shields.io/badge/python-3.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
