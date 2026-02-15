@@ -1,3 +1,5 @@
+# ByteChat
+![Snapshot da aplicação](snapshot.png)
 ````markdown
 # ByteChat
 
