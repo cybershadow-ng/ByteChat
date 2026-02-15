@@ -1,6 +1,8 @@
 ````markdown
 # ByteChat
 
+<img src="snapshot.png" alt="Print do ByteChat" width="500">
+
 ![Python](https://img.shields.io/badge/python-3.x-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 **ByteChat** é uma ferramenta de chat TCP **peer-to-peer** para redes locais (LAN), desenvolvida em Python.  
