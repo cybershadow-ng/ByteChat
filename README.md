@@ -47,7 +47,5 @@ cd ByteChat
 - `<img src="snapshot.png" width="600">` → força a largura da imagem e evita que quebre o layout.  
 - Markdown normal continua funcionando abaixo da imagem.  
 
-Se você quiser, posso montar **o README inteiro pronto com a imagem centralizada e tudo já formatado para GitHub**, assim você só copia e cola.  
-
 Quer que eu faça isso?
 ```
